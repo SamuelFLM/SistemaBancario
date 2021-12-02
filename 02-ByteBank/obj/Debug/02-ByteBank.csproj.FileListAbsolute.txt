@@ -1,7 +1,0 @@
-C:\Users\Lazer\source\repos\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe.config
-C:\Users\Lazer\source\repos\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe
-C:\Users\Lazer\source\repos\ByteBank\02-ByteBank\bin\Debug\02-ByteBank.pdb
-C:\Users\Lazer\source\repos\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
-C:\Users\Lazer\source\repos\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.exe
-C:\Users\Lazer\source\repos\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.pdb
-C:\Users\Lazer\source\repos\ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csprojAssemblyReference.cache
