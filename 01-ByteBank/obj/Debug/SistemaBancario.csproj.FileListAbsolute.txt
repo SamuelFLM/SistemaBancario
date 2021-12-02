@@ -1,0 +1,14 @@
+C:\Users\Lazer\source\repos\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe.config
+C:\Users\Lazer\source\repos\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe
+C:\Users\Lazer\source\repos\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.pdb
+C:\Users\Lazer\source\repos\ByteBank\01-ByteBank\obj\Debug\SistemaBancario.csprojAssemblyReference.cache
+C:\Users\Lazer\source\repos\ByteBank\01-ByteBank\obj\Debug\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\Lazer\source\repos\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.exe
+C:\Users\Lazer\source\repos\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.pdb
+C:\Users\Lazer\Desktop\SistemaBancario\01-ByteBank\bin\Debug\01-ByteBank.exe.config
+C:\Users\Lazer\Desktop\SistemaBancario\01-ByteBank\bin\Debug\01-ByteBank.exe
+C:\Users\Lazer\Desktop\SistemaBancario\01-ByteBank\bin\Debug\01-ByteBank.pdb
+C:\Users\Lazer\Desktop\SistemaBancario\01-ByteBank\obj\Debug\SistemaBancario.csprojAssemblyReference.cache
+C:\Users\Lazer\Desktop\SistemaBancario\01-ByteBank\obj\Debug\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\Lazer\Desktop\SistemaBancario\01-ByteBank\obj\Debug\01-ByteBank.exe
+C:\Users\Lazer\Desktop\SistemaBancario\01-ByteBank\obj\Debug\01-ByteBank.pdb
